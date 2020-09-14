@@ -1,0 +1,1 @@
+SELECT persistenceid FROM pndataproceso WHERE ROWNUM <= 1;
